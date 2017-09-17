@@ -2,14 +2,14 @@
 <!-- Edited by MrLei -->
 <college name="Yangtse University">
 <![CDATA[
-"ѧУ��Ϊ������ѧ"
-���XML����һ���༶�Ļ������
-ѧУ>�༶>ѧ��>ѧ��>�Ա�>����
+"学校名为长江大学"
+这个XML描述一个班级的基本情况
+学校>班级>学号>学生>性别>年龄
 ]]>
 <class number="11502">
 <student>
 <number>001</number>
-<name>�׽���</name>
+<name>雷金梁</name>
 <sex>man</sex>
 <age>19</age>
 </student>
@@ -57,4 +57,5 @@ return 0;
 }
 ]]>
 </script>
+  </class>
 </college>
