@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by MrLei -->
+<college name="Yangtse University">
+<![CDATA[
+"学校名为长江大学"
+这个XML描述一个班级的基本情况
+学校>班级>学号>学生>性别>年龄
+]]>
+<class number="11502">
+<student>
+<number>001</number>
+<name>雷金梁</name>
+<sex>man</sex>
+<age>19</age>
+</student>
+
+<student>
+<number>002</number>
+<name>Bobby White</name>
+<sex>man</sex>
+<age>20</age>
+</student>
+
+<student>
+<number>003</number>
+<name>Taylor Swift</name>
+<sex>girl</sex>
+<age>19</age>
+</student>
+
+<student>
+<number>004</number>
+<name>Hooly Helen</name>
+<sex>girl</sex>
+<age>21</age>
+</student>
+
+<student>
+<number>005</number>
+<name>Tom Smith</name>
+<sex>man</sex>
+<age>22</age>
+</student>
+
+<script>
+<![CDATA[
+function matchwo(a,b)
+{
+if(a<b&&a<0) then
+{
+return 1;
+}
+else
+{
+return 0;
+}
+}
+]]>
+</script>
+</college>
